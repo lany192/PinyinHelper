@@ -15,3 +15,5 @@
 ### 使用
     
     PingYinUtil.getPingYin(input)
+    
+## 推荐使用：https://github.com/promeG/TinyPinyin
